@@ -1,2 +1,3 @@
 # git-toptip
-My first game 
+Mobile android game...
+Made with Unity
